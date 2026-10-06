@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.tfstate
+*.tfstate.*
+.terraform/
+.DS_Store
+__pycache__/
+.venv/
