@@ -16,7 +16,6 @@ These are educational examples, not a certification or an assurance that a syste
 - [Roadmap](ROADMAP.md)
 - [Tutorial template](templates/tutorial.md)
 - [Contributing](CONTRIBUTING.md)
-- [Storage learning](https://github.com/TrajanSolutions/nubes-guides)
 - [IoT learning](https://github.com/TrajanSolutions/iot-guides)
 
 Use Issues for learning questions and corrections. Do not post credentials, private system details or exploitable vulnerabilities in public issues.
